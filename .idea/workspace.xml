@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8346b665-08a2-43bb-9108-502e2c26a8b2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hilos3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Semaphore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThreadA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThreadB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThreadManager.java" afterDir="false" />
-    </list>
+    <list default="true" id="8346b665-08a2-43bb-9108-502e2c26a8b2" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,6 +65,7 @@
       <workItem from="1713730266069" duration="3602000" />
       <workItem from="1713748218127" duration="3706000" />
       <workItem from="1713796527391" duration="180000" />
+      <workItem from="1713796817303" duration="862000" />
     </task>
     <servers />
   </component>
